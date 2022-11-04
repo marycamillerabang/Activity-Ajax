@@ -71,8 +71,9 @@
                                     </div>
                                     <input type="text" name="course"class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
                                     </div>
+                                    <div class="text-center">
                                         <button class="btn btn-primary">Create</button>
-                                    
+                                    </div>
                                 </form>
                             </div>
                             </div>
@@ -112,9 +113,9 @@
                                     </div>
                                     <input type="text" name="course"class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
                                     </div>
-
+                                    <div class="text-center">
                                         <button class="btn btn-warning">Update</button>
-                                  
+                                    </div>
 
                                 </form>
                             </div>
