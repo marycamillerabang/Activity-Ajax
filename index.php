@@ -17,7 +17,7 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header">
-                        <h6>Activity Ajax</h6>
+                        <h4 class="text-center">Activity Ajax</h4>
                     </div>
 
                          <div class="card-body">
@@ -41,7 +41,7 @@
                         <div class="col-sm-6">
                             <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Add</h5>
+                                <h5 class="card-title text-center">Add</h5>
                                 <form method="POST" id="addForm">
 
                                     <div class="input-group mb-3">
@@ -82,7 +82,7 @@
                         <div class="col-sm-6">
                             <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Edit</h5>
+                                <h5 class="card-title text-center">Edit</h5>
                                         
                             <form method="POST" id="editForm">
                                     
