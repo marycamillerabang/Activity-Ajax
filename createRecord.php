@@ -8,4 +8,5 @@
 
 	$query = "INSERT INTO records VALUES ($id, '$name', '$age', '$course')";
 	mysqli_query($connection, $query);
+
 ?>
